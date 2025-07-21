@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.capa1{
+ background-color: springgreen; 
+ width: 50%;
+ float: left;
+}
+
+.capa2{
+    background-color: skyblue;
+    width: 50%;
+    float: left;
+}
+
+.capa3{
+    background-color: royalblue;
+    width: 100%;
+    clear: both;
+   
+}

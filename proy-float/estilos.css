@@ -1,0 +1,37 @@
+img{
+    width: 500px;
+    float: left;
+    margin-right: 5px;
+}
+
+
+.winky-rough-letra {
+  font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
+
+.subtitulo{
+    clear: both;
+}
+
+.color-parrafo1{
+    color: blue;
+}
+
+.color-parrafo2{
+    color: red;
+}
+
+.margenes-img1{
+margin-bottom: 10px;
+}
+
+.imagen2{
+    float: right;
+}
+
+h3{
+    clear: both;
+}
